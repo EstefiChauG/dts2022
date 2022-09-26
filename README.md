@@ -1,3 +1,3 @@
 # dts2022
-Mi primera web
-descripción repositorio
+<h1> Mi primera web </h1>
+<p> descripción repositorio </p>
