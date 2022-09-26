@@ -1,0 +1,114 @@
+body
+{background-color: #FFF8DC;}
+
+.Titulo {
+	font-family: 'Satisfy', cursive;
+	color: hotpink;
+	font-size: 25px;
+	margin-left: 30px;
+	padding: 5px;
+}
+
+.Text {
+	font-family: 'Montserrat', sans-serif;
+	color: black;
+	font-size: 18px;
+	padding-left: 10px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: hotpink;
+	margin-left: 30px;
+}
+
+.fondo {
+	width:  300px;
+	height: 200px;
+	background-color: white;
+	margin: 30px;
+	margin-right: 50px;
+	display: inline-block;
+	float: left;
+}
+
+#Portugal
+	.franja1 {
+		width:  100px;
+		height: 200px;
+		background-color: #006600;
+	}
+
+	.franja2 {
+		width:  200px;
+		height: 200px;
+		background-color: #D62C25;
+		margin-left: 100px;
+	}
+
+	.simb {
+		height: 95px;
+		width: 95px;
+		position: absolute;
+		margin-left: 52.5px;
+		margin-top: 50px;
+	}
+	
+
+#Suecia
+	.franja3 {
+		width:  300px;
+		height: 80px;
+		background-color: #006AA6;
+	}
+
+	.franja4 {
+		width:  300px;
+		height: 37.5px;
+		background-color: #FECB00;
+	}
+
+	.franja5 {
+		width:  300px;
+		height: 80px;
+		background-color: #006AA6;
+	}
+
+	.franjavertical {
+		width:  37.5px;
+		height: 80px;
+		background-color: #FECB00;
+		margin-left: 93.75px;
+	}
+
+#Laos
+	.franja6 {
+		width:  300px;
+		height: 50px;
+		background-color: #CE0F26;
+	}
+
+	.franja7 {
+		width:  300px;
+		height: 100px;
+		background-color: #002868;
+	}
+
+	.franja8 {
+		width:  300px;
+		height: 50px;
+		background-color: #CE0F26;
+	}
+
+	.circ {
+		height: 80px;
+		width: 80px;
+		position: absolute;
+		margin-left: 110px;
+		margin-top: 10px;
+	}
+
+
+.a {color: black;}
+a:hover {color: hotpink;}
+
+
+
